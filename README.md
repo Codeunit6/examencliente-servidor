@@ -69,7 +69,8 @@ Recuerda que si necesitas algo en especifico busca en la documentacion que ofrec
 ## :pushpin: Importante :pushpin:
 Recuerda es necesario que veas el  	:open_file_folder: `route` para ver las especificaciones del proyecto y no comentas un error de ruteo dentro del proyecto. Este se encuentra en la carpeta de routes y vas al archivo :card_index: `web.php`
 
-Tambien es necesario leer los pdf que se encuentran en el proyecto, lo cuales son la documentacion sobre el proyecto recuerda revisar los archivos  :card_index_dividers: `.pdf`
+Mencionamos que no hay todavia una documentacion de este proyecto (:card_index_dividers: `.pdf`) por lo que si requiere de una pido que se comunique con el contacto dado aqui.
+
 ## Contacto
 Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor contactame aqui:
 - :telephone_receiver:  5540124899
